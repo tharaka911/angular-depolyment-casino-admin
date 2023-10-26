@@ -2,7 +2,7 @@
 
 ### clone me
 ```sh
-git clone 
+git clone https://github.com/tharaka911/angular-depolyment-casino-admin.git
 ```
 
 ### give me access to execute
