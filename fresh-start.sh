@@ -9,6 +9,9 @@ git restore .
 # Pull the latest changes from the git repository
 git pull
 
+# intall node dependencies
+npm install
+
 # Stop and delete the PM2 process
 pm2 delete casino-admin
 
